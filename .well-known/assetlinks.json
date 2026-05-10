@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.dyfunklinge_ai.twa",
-    "sha256_cert_fingerprints": ["8F:C7:F7:DE:84:B7:8A:CE:52:B2:E0:DE:41:9C:53:15:9C:4D:47:0C:56:B6:B7:94:5B:EA:64:DA:AF:AA:95:94"]
+    "sha256_cert_fingerprints": ["94:1F:F1:BF:81:4D:1F:70:68:44:8E:F2:CB:9A:0F:82:26:A8:F6:3A:AD:65:62:08:36:2B:B8:44:9A:CB:BA:37"]
   }
 }]
